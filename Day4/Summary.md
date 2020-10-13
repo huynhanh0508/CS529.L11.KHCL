@@ -3,7 +3,9 @@ Buổi học thứ 4 Thầy Tiệp phụ trách giảng dạy
 - cách làm research:
   1. khảo sát ( chọn ra 30 bài báo)
 	  + why
-	  + how
+	  + how: tìm nghiên cứu/ bài báo có liên quan tới lĩnh vực đang nghiên cứu dựa trên các tiêu chí:
+	  - thời gian: 5 năm đổ lại
+	  - Độ uy tín: nơi công bố, tổ chức có liên quan, trích dẫn
   3. đề xuất giải pháp
   
   5. viết report 
