@@ -5,3 +5,11 @@ Buổi học thứ 4 Thầy Tiệp phụ trách giảng dạy
 	  + why
 	  + how
   3. đề xuất giải pháp
+  
+  5. viết report 
+	+ paper
+	+ luận văn
+	+ báo cáo tiến độ
+  6. pulish
+	+ app
+	+ conference paper
